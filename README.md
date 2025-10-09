@@ -1,4 +1,5 @@
-# KazakhIT<!DOCTYPE html>
+# KazakhIT
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
