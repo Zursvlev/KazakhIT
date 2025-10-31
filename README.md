@@ -1,3 +1,4 @@
+Евген, [31.10.2025 09:25]
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -131,7 +132,9 @@
             transition: background 0.3s;
         }
         .currency-btn.active, .lang-btn.active {
-            background: var(--primary);
+
+Евген, [31.10.2025 09:25]
+background: var(--primary);
         }
         .dropdown-menu {
             position: absolute;
@@ -270,7 +273,9 @@
         .products, .team, .contact, .reviews, .addresses {
             padding: 60px 0;
         }
-        .products-grid, .team-grid, .reviews-grid {
+
+Евген, [31.10.2025 09:25]
+.products-grid, .team-grid, .reviews-grid {
             display: grid;
             grid-template-columns: 1fr;
             gap: 24px;
@@ -415,7 +420,9 @@
         .review-header {
             display: flex;
             justify-content: space-between;
-            align-items: center;
+
+Евген, [31.10.2025 09:25]
+align-items: center;
             margin-bottom: 12px;
         }
         .reviewer-name {
@@ -569,7 +576,9 @@
             width: 40px;
             height: 40px;
             border-radius: 50%;
-            object-fit: cover;
+
+Евген, [31.10.2025 09:25]
+object-fit: cover;
         }
         .footer-logo h3 {
             font-size: 18px;
@@ -713,7 +722,9 @@
         }
         .comments-list {
             max-height: 400px;
-            overflow-y: auto;
+
+Евген, [31.10.2025 09:25]
+overflow-y: auto;
             padding-right: 10px;
         }
         .comment-item {
@@ -869,7 +880,9 @@
             .section-header h2 {
                 font-size: 28px;
             }
-            .contact-content {
+
+Евген, [31.10.2025 09:25]
+.contact-content {
                 gap: 24px;
             }
             .contact-item {
@@ -1009,7 +1022,9 @@
             }
             .spec-item {
                 flex-direction: row;
-                justify-content: space-between;
+
+Евген, [31.10.2025 09:25]
+justify-content: space-between;
             }
             .spec-label {
                 text-align: left;
@@ -1132,7 +1147,9 @@
                         <a href="#" data-target="products" class="nav-link" data-translate="nav-products">Товары</a>
                         <a href="#" data-target="team" class="nav-link" data-translate="nav-team">Команда</a>
                         <a href="#" data-target="reviews" class="nav-link" data-translate="nav-reviews">Отзывы</a>
-                        <a href="#" data-target="addresses" class="nav-link" data-translate="nav-addresses">Адреса</a>
+
+Евген, [31.10.2025 09:25]
+<a href="#" data-target="addresses" class="nav-link" data-translate="nav-addresses">Адреса</a>
                         <a href="#" data-target="contact" class="nav-link" data-translate="nav-contact">Контакты</a>
                     </nav>
                 </div>
@@ -1196,7 +1213,9 @@
     </section>
     <section id="products" class="products">
         <div class="container">
-            <div class="section-header">
+
+Евген, [31.10.2025 09:25]
+<div class="section-header">
                 <h2 data-translate="products-title">Наши ноутбуки</h2>
                 <p data-translate="products-subtitle">Широкий выбор моделей для работы, учёбы и игр</p>
             </div>
@@ -1212,7 +1231,7 @@
             <div class="team-grid">
                 <div class="team-member">
                     <div class="member-image-container">
-                        <img src="https://i.postimg.cc/V6yzrjwC/ee.jpg" alt="Евгений" class="member-image">
+                        <img src="https://iimg.su/i/cuEYcO" alt="Евгений" class="member-image">
                     </div>
                     <div class="member-info">
                         <h3>Евгений</h3>
@@ -1232,7 +1251,7 @@
                 </div>
                 <div class="team-member">
                     <div class="member-image-container">
-                        <img src="https://i.postimg.cc/bwGTzQBS/k.jpg" alt="Кирилл" class="member-image">
+                        <img src="" alt="Кирилл" class="member-image">
                     </div>
                     <div class="member-info">
                         <h3>Кирил Мамбет</h3>
@@ -1242,7 +1261,7 @@
                 </div>
                 <div class="team-member">
                     <div class="member-image-container">
-                        <img src="https://i.postimg.cc/MTwbbgKY/ko.jpg" alt="Костя" class="member-image">
+                        <img src="https://iimg.su/i/gc4q3N" alt="Костя" class="member-image">
                     </div>
                     <div class="member-info">
                         <h3>Костя</h3>
@@ -1274,7 +1293,9 @@
                 <p data-translate="reviews-subtitle">Что говорят наши клиенты о нас</p>
             </div>
             <div class="reviews-grid" id="reviews-grid"></div>
-            <button class="show-more" id="showMoreBtn" data-translate="btn-show-more">Показать ещё</button>
+
+Евген, [31.10.2025 09:25]
+<button class="show-more" id="showMoreBtn" data-translate="btn-show-more">Показать ещё</button>
             <div class="review-form">
                 <h3 data-translate="review-form-title">Оставить отзыв</h3>
                 <form id="review-form">
@@ -1343,7 +1364,9 @@
                     </div>
                     <div class="contact-item">
                         <div class="contact-icon"><i class="fas fa-envelope"></i></div>
-                        <div class="contact-details"><h3 data-translate="contact-email">Email</h3><p>sinxays3@mail.ru</p></div>
+
+Евген, [31.10.2025 09:25]
+<div class="contact-details"><h3 data-translate="contact-email">Email</h3><p>sinxays3@mail.ru</p></div>
                     </div>
                     <div class="contact-item">
                         <div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div>
@@ -1405,7 +1428,9 @@
             { brand: 'Samsung', model: 'Galaxy Book3', image: 'https://i.postimg.cc/L66QMFVc/Samsung-Galaxy-Book3.webp' },
             { brand: 'Razer', model: 'Blade 15', image: 'https://i.postimg.cc/fRyPYQt7/razer-blade-15.jpg' },
             { brand: 'Microsoft', model: 'Surface Laptop 5', image: 'https://i.postimg.cc/sggkKZ86/Microsoft-Surface-Laptop-5.png' },
-            { brand: 'Alienware', model: 'm18', image: 'https://i.postimg.cc/D0DvFdRD/alienware-m18.jpg' },
+
+Евген, [31.10.2025 09:25]
+{ brand: 'Alienware', model: 'm18', image: 'https://i.postimg.cc/D0DvFdRD/alienware-m18.jpg' },
             { brand: 'HP', model: 'Victus 15', image: 'https://i.postimg.cc/43dXK0sg/HP-Victus-15.webp' },
             { brand: 'Lenovo', model: 'Legion Pro 7i', image: 'https://i.postimg.cc/02sxGjPL/Lenovo-Legion-Pro-7i.jpg' },
             { brand: 'Asus', model: 'ROG Zephyrus G14', image: 'https://i.postimg.cc/2jJr1GK5/Asus-ROG-Zephyrus-G14.webp' },
@@ -1438,7 +1463,9 @@
                     'Очень довольна покупкой. Консультант помог выбрать подходящую модель, всё объяснил. Рекомендую!',
                     'Работаю на ноутбуке уже полгода - всё отлично. Не греется, быстро запускается, батарея держит долго.',
                     'Быстрая доставка, качественный товар. Сотрудники вежливые и компетентные. Спасибо за отличный сервис!',
-                    'Цены радуют, ассортимент большой. Выбрал себе ноутбук для работы, работает безотказно.',
+
+Евген, [31.10.2025 09:25]
+'Цены радуют, ассортимент большой. Выбрал себе ноутбук для работы, работает безотказно.',
                     'Очень довольна покупкой! Качество на высоте, сервис отличный. Обязательно буду обращаться снова.',
                     'Рекомендую эту компанию. Быстро, надежно, качественно. Ноутбук работает как часы.',
                     'Прекрасный выбор ноутбуков, консультанты знают свое дело. Спасибо за помощь в выборе.',
@@ -1482,7 +1509,9 @@
                 laptopReviews.push({
                     id: laptopId * 100 + i,
                     laptopId: laptopId,
-                    name: reviewers[Math.floor(Math.random() * reviewers.length)],
+
+Евген, [31.10.2025 09:25]
+name: reviewers[Math.floor(Math.random() * reviewers.length)],
                     text: texts[Math.floor(Math.random() * texts.length)],
                     rating: parseFloat(rating)
                 });
@@ -1500,13 +1529,13 @@
             const rating = (Math.random() * 0.2 + 4.8).toFixed(1); // Оценка от 4.8 до 5.0
             laptops.push({
                 id: i + 1,
-                name: `${laptopModel.brand} ${laptopModel.model}`,
+                name: ${laptopModel.brand} ${laptopModel.model},
                 price: price,
-                summary: `${screen}, ${processor}, ${ram} RAM`,
+                summary: ${screen}, ${processor}, ${ram} RAM,
                 image: laptopModel.image,
                 rating: rating,
                 specs: {
-                    'Модель': `${laptopModel.brand} ${laptopModel.model}`,
+                    'Модель': ${laptopModel.brand} ${laptopModel.model},
                     'Процессор': processor,
                     'Оперативная память': ram,
                     'Накопитель': storage,
@@ -1573,7 +1602,9 @@
                 'products-subtitle': 'Широкий выбор моделей для работы, учёбы и игр',
                 'team-title': 'Наша команда',
                 'team-subtitle': 'Профессионалы своего дела',
-                'role-ceo': 'Генеральный директор',
+
+Евген, [31.10.2025 09:25]
+'role-ceo': 'Генеральный директор',
                 'role-ceo-desc': 'Лидер команды с 15-летним опытом в IT-индустрии.',
                 'role-director': 'Директор',
                 'role-director-desc': 'Организатор процессов и управления проектами.',
@@ -1652,7 +1683,9 @@
                 'role-accountant-desc': 'Financial expert, guarantees stability.',
                 'role-cleaner': 'Cleaner',
                 'role-cleaner-desc': 'Green goblin from the swamp, maintains cleanliness.',
-                'role-consultant': 'Consultant',
+
+Евген, [31.10.2025 09:25]
+'role-consultant': 'Consultant',
                 'role-consultant-desc': 'Cool guy, good type!',
                 'reviews-title': 'Customer Reviews',
                 'reviews-subtitle': 'What our customers say about us',
@@ -1745,7 +1778,9 @@
                 'contact-address': '地址',
                 'form-name': '姓名',
                 'form-message': '消息',
-                'btn-send': '发送',
+
+Евген, [31.10.2025 09:25]
+'btn-send': '发送',
                 'footer-title': 'KazakhIT',
                 'footer-subtitle': '未来技术',
                 'footer-copyright': '© 2025 KazakhIT. 版权所有。',
@@ -1828,7 +1863,9 @@
         };
         // Функция для форматирования цены в зависимости от валюты
         function formatPrice(price, currency) {
-            const rate = exchangeRates[currency];
+
+Евген, [31.10.2025 09:25]
+const rate = exchangeRates[currency];
             const convertedPrice = price * rate;
             switch(currency) {
                 case 'RUB':
@@ -1857,7 +1894,7 @@
             elements.forEach(element => {
                 const key = element.getAttribute('data-translate');
                 if (translations[currentLanguage][key]) {
-                    if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
+                    if (element.tagName === 'INPUT'  element.tagName === 'TEXTAREA') {
                         element.placeholder = translations[currentLanguage][key];
                     } else {
                         element.textContent = translations[currentLanguage][key];
@@ -1906,7 +1943,10 @@
                 Object.entries(laptop.specs).forEach(([key, value]) => {
                     const specItem = document.createElement('div');
                     specItem.className = 'spec-item';
-                    specItem.innerHTML = `<span class="spec-label">${key}:</span><span class="spec-value">${value}</span>`;
+                    specItem.innerHTML
+
+Евген, [31.10.2025 09:25]
+= `<span class="spec-label">${key}:</span><span class="spec-value">${value}</span>`;
                     modalSpecs.appendChild(specItem);
                 });
                 document.getElementById('productModal').style.display = 'flex';
@@ -1987,304 +2027,3 @@
         });
         // Обработчики для языков
         document.querySelectorAll('.lang-btn').forEach(btn => {
-            btn.addEventListener('click', function() {
-                const menu = document.getElementById('language-menu');
-                menu.style.display = 'flex';
-                menu.classList.remove('closing');
-            });
-        });
-        document.querySelectorAll('.dropdown-item[data-lang]').forEach(item => {
-            item.addEventListener('click', function() {
-                const lang = this.getAttribute('data-lang');
-                document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
-                document.querySelector('.lang-btn').classList.add('active');
-                document.querySelector('.lang-btn').textContent = lang.toUpperCase();
-                currentLanguage = lang;
-                updateLanguage();
-                // Закрываем меню с анимацией
-                const menu = document.getElementById('language-menu');
-                menu.classList.add('closing');
-                setTimeout(() => {
-                    menu.style.display = 'none';
-                    menu.classList.remove('closing');
-                }, 300);
-            });
-        });
-        // Обработчики для флагов
-        document.querySelectorAll('.flag').forEach(flag => {
-            flag.addEventListener('click', function() {
-                const lang = this.getAttribute('data-lang');
-                document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
-                document.querySelector('.lang-btn').classList.add('active');
-                document.querySelector('.lang-btn').textContent = lang.toUpperCase();
-                currentLanguage = lang;
-                updateLanguage();
-            });
-        });
-        // Закрываем меню при клике вне его
-        document.addEventListener('click', function(e) {
-            const currencyMenu = document.getElementById('currency-menu');
-            const languageMenu = document.getElementById('language-menu');
-            const currencyBtn = document.querySelector('.currency-btn');
-            const langBtn = document.querySelector('.lang-btn');
-            if (!currencyBtn.contains(e.target) && !currencyMenu.contains(e.target)) {
-                if (!currencyMenu.classList.contains('closing') && currencyMenu.style.display === 'flex') {
-                    currencyMenu.classList.add('closing');
-                    setTimeout(() => {
-                        currencyMenu.style.display = 'none';
-                        currencyMenu.classList.remove('closing');
-                    }, 300);
-                }
-            }
-            if (!langBtn.contains(e.target) && !languageMenu.contains(e.target)) {
-                if (!languageMenu.classList.contains('closing') && languageMenu.style.display === 'flex') {
-                    languageMenu.classList.add('closing');
-                    setTimeout(() => {
-                        languageMenu.style.display = 'none';
-                        languageMenu.classList.remove('closing');
-                    }, 300);
-                }
-            }
-        });
-        // Функция для прокрутки к секции
-        function scrollToSection(sectionId) {
-            const targetElement = document.getElementById(sectionId);
-            if (targetElement) {
-                const offsetTop = targetElement.offsetTop - (window.innerWidth >= 768 ? 100 : 80);
-                window.scrollTo({ top: offsetTop, behavior: 'smooth' });
-            }
-        }
-        // Обработка формы отзывов
-        const reviewForm = document.getElementById('review-form');
-        const ratingStars = document.querySelectorAll('.rating-star');
-        let selectedRating = 5;
-        ratingStars.forEach(star => {
-            star.addEventListener('click', () => {
-                selectedRating = parseInt(star.getAttribute('data-rating'));
-                // Убираем активный класс у всех звезд
-                ratingStars.forEach(s => s.classList.remove('active'));
-                // Добавляем активный класс до выбранной звезды
-                for (let i = 0; i < selectedRating; i++) {
-                    ratingStars[i].classList.add('active');
-                }
-            });
-        });
-        reviewForm.addEventListener('submit', (e) => {
-            e.preventDefault();
-            const firstName = document.getElementById('first-name').value;
-            const lastName = document.getElementById('last-name').value;
-            const email = document.getElementById('email').value;
-            const reviewText = document.getElementById('review-text').value;
-            // Создаем карточку отзыва
-            const reviewCard = document.createElement('div');
-            reviewCard.className = 'review-card';
-            reviewCard.innerHTML = `
-                <div class="review-header">
-                    <div class="reviewer-name">${firstName} ${lastName}</div>
-                    <div class="review-rating">${'★'.repeat(selectedRating)}</div>
-                </div>
-                <div class="review-text">${reviewText}</div>
-            `;
-            // Добавляем новый отзыв в начало списка
-            const reviewsGrid = document.getElementById('reviews-grid');
-            reviewsGrid.insertBefore(reviewCard, reviewsGrid.firstChild);
-            // Сбрасываем форму
-            reviewForm.reset();
-            // Сбрасываем звезды
-            ratingStars.forEach(s => s.classList.remove('active'));
-            selectedRating = 5;
-            alert('Спасибо за ваш отзыв!');
-        });
-        // Генерация общих отзывов
-        const reviews = [
-            { name: 'Алексей Петров', text: 'Отличный сервис! Быстро оформили заказ, доставили вовремя. Ноутбук работает отлично, спасибо!' },
-            { name: 'Мария Сидорова', text: 'Очень довольна покупкой. Консультант помог выбрать подходящую модель, всё объяснил. Рекомендую!' },
-            { name: 'Дмитрий Иванов', text: 'Работаю на ноутбуке уже полгода - всё отлично. Не греется, быстро запускается, батарея держит долго.' },
-            { name: 'Елена Козлова', text: 'Быстрая доставка, качественный товар. Сотрудники вежливые и компетентные. Спасибо за отличный сервис!' },
-            { name: 'Андрей Николаев', text: 'Цены радуют, ассортимент большой. Выбрал себе ноутбук для работы, работает безотказно.' },
-            { name: 'Ольга Морозова', text: 'Очень довольна покупкой! Качество на высоте, сервис отличный. Обязательно буду обращаться снова.' },
-            { name: 'Михаил Федоров', text: 'Рекомендую эту компанию. Быстро, надежно, качественно. Ноутбук работает как часы.' },
-            { name: 'Татьяна Волкова', text: 'Прекрасный выбор ноутбуков, консультанты знают свое дело. Спасибо за помощь в выборе.' },
-            { name: 'Сергей Павлов', text: 'Отличное качество, быстрая доставка. Работаю на этом ноутбуке каждый день - всё устраивает.' },
-            { name: 'Наталья Орлова', text: 'Покупкой довольна. Ноутбук работает исправно, дизайн приятный, цена радует.' },
-            { name: 'Иван Семенов', text: 'Очень доволен сервисом. Быстро оформили заказ, доставили вовремя. Рекомендую!' },
-            { name: 'Анна Лебедева', text: 'Отличный выбор техники, профессиональные консультанты. Покупкой полностью довольна.' },
-            { name: 'Константин Волков', text: 'Работаю на ноутбуке уже несколько месяцев - всё отлично. Рекомендую всем!' },
-            { name: 'Ирина Назарова', text: 'Очень приятно удивлена качеством обслуживания. Спасибо за отличный сервис!' },
-            { name: 'Роман Кузнецов', text: 'Быстро, удобно, надежно. Ноутбук работает отлично, рекомендую эту компанию.' },
-            { name: 'Екатерина Фролова', text: 'Прекрасный выбор, быстрая доставка. Спасибо за отличный сервис и качественный товар.' },
-            { name: 'Александр Медведев', text: 'Работаю на этом ноутбуке каждый день - всё устраивает. Рекомендую!' },
-            { name: 'Виктория Сорокина', text: 'Очень довольна покупкой. Качество, сервис и доставка на высшем уровне.' },
-            { name: 'Артем Григорьев', text: 'Отличный выбор техники, всё работает исправно. Рекомендую всем друзьям.' },
-            { name: 'Дарья Беляева', text: 'Прекрасный сервис, вежливые сотрудники. Покупкой полностью довольна.' },
-            { name: 'Павел Зайцев', text: 'Быстрая доставка, качественный товар. Работаю на ноутбуке каждый день.' },
-            { name: 'Юлия Яковлева', text: 'Отличный выбор, приятные цены. Спасибо за помощь в выборе и быструю доставку.' },
-            { name: 'Максим Гусев', text: 'Рекомендую эту компанию. Все на высшем уровне - сервис, качество, цены.' },
-            { name: 'Алина Осипова', text: 'Очень довольна покупкой. Ноутбук работает отлично, спасибо за отличный сервис!' },
-            { name: 'Владимир Фомин', text: 'Работаю на ноутбуке уже несколько месяцев - всё устраивает. Рекомендую!' },
-            { name: 'Евгения Новикова', text: 'Прекрасный выбор техники, профессиональные консультанты. Спасибо!' },
-            { name: 'Антон Виноградов', text: 'Быстрая доставка, отличное качество. Работаю на ноутбуке каждый день.' },
-            { name: 'Оксана Крылова', text: 'Очень довольна покупкой. Сервис на высшем уровне, рекомендую всем!' },
-            { name: 'Борис Максимов', text: 'Рекомендую эту компанию. Быстро, надежно, качественно. Спасибо!' },
-            { name: 'Светлана Алексеева', text: 'Прекрасный выбор, отличный сервис. Покупкой полностью довольна.' },
-            { name: 'Роман Соколов', text: 'Работаю на ноутбуке каждый день - всё устраивает. Рекомендую!' },
-            { name: 'Анна Михайлова', text: 'Очень приятно удивлена качеством обслуживания. Спасибо за отличный сервис!' },
-            { name: 'Денис Белов', text: 'Быстро, удобно, надежно. Ноутбук работает отлично, рекомендую эту компанию.' },
-            { name: 'Марина Семенова', text: 'Прекрасный выбор техники, быстрая доставка. Спасибо за отличный сервис!' },
-            { name: 'Алексей Герасимов', text: 'Работаю на этом ноутбуке каждый день - всё устраивает. Рекомендую!' },
-            { name: 'Елена Егорова', text: 'Очень довольна покупкой. Качество, сервис и доставка на высшем уровне.' },
-            { name: 'Игорь Поляков', text: 'Отличный выбор техники, всё работает исправно. Рекомендую всем друзьям.' },
-            { name: 'Нина Дмитриева', text: 'Прекрасный сервис, вежливые сотрудники. Покупкой полностью довольна.' },
-            { name: 'Андрей Тимофеев', text: 'Быстрая доставка, качественный товар. Работаю на ноутбуке каждый день.' },
-            { name: 'Татьяна Казакова', text: 'Отличный выбор, приятные цены. Спасибо за помощь в выборе и быструю доставку.' },
-            { name: 'Виктор Степанов', text: 'Рекомендую эту компанию. Все на высшем уровне - сервис, качество, цены.' },
-            { name: 'Ксения Орехова', text: 'Очень довольна покупкой. Ноутбук работает отлично, спасибо за отличный сервис!' },
-            { name: 'Григорий Назаров', text: 'Работаю на ноутбуке уже несколько месяцев - всё устраивает. Рекомендую!' },
-            { name: 'Валерия Савельева', text: 'Прекрасный выбор техники, профессиональные консультанты. Спасибо!' },
-            { name: 'Алексей', rating: 5 },
-            { name: 'Мария', rating: 5 },
-            { name: 'Дмитрий', rating: 5 }
-        ];
-        const reviewsGrid = document.getElementById('reviews-grid');
-        const showMoreBtn = document.getElementById('showMoreBtn');
-        let currentReviews = 15; // Показываем первые 15 отзывов
-        // Функция для отображения отзывов
-        function displayReviews(count) {
-            reviewsGrid.innerHTML = '';
-            const reviewsToShow = reviews.slice(0, count);
-            reviewsToShow.forEach(review => {
-                const reviewCard = document.createElement('div');
-                reviewCard.className = 'review-card';
-                if (review.text) {
-                    reviewCard.innerHTML = `
-                        <div class="review-header">
-                            <div class="reviewer-name">${review.name}</div>
-                            <div class="review-rating">${'★'.repeat(review.rating || 5)}</div>
-                        </div>
-                        <div class="review-text">${review.text}</div>
-                    `;
-                } else {
-                    reviewCard.innerHTML = `
-                        <div class="review-header">
-                            <div class="reviewer-name">${review.name}</div>
-                            <div class="review-rating">${'★'.repeat(review.rating)}</div>
-                        </div>
-                    `;
-                }
-                reviewsGrid.appendChild(reviewCard);
-            });
-        }
-        // Инициализация - показываем первые 15 отзывов
-        displayReviews(currentReviews);
-        // Обработчик кнопки "Показать ещё"
-        showMoreBtn.addEventListener('click', () => {
-            currentReviews += 15;
-            if (currentReviews >= reviews.length) {
-                currentReviews = reviews.length;
-                showMoreBtn.style.display = 'none';
-            }
-            displayReviews(currentReviews);
-        });
-        // Скрываем кнопку, если отзывов меньше 15
-        if (reviews.length <= 15) {
-            showMoreBtn.style.display = 'none';
-        }
-        // Функция для сворачивания шапки при прокрутке вниз на мобильных устройствах
-        let lastScrollTop = 0;
-        let ticking = false;
-        function updateHeader() {
-            const header = document.getElementById('header');
-            const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-            // Проверяем, является ли устройство мобильным
-            if (window.innerWidth <= 767) {
-                if (scrollTop > lastScrollTop && scrollTop > 100) {
-                    // Прокрутка вниз - скрываем шапку
-                    header.style.transform = 'translateY(-100%)';
-                } else if (scrollTop < lastScrollTop) {
-                    // Прокрутка вверх - показываем шапку
-                    header.style.transform = 'translateY(0)';
-                }
-            } else {
-                // На десктопе всегда показываем шапку
-                header.style.transform = 'translateY(0)';
-            }
-            lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
-            ticking = false;
-        }
-        function requestScrollUpdate() {
-            if (!ticking) {
-                requestAnimationFrame(updateHeader);
-                ticking = true;
-            }
-        }
-        window.addEventListener('scroll', requestScrollUpdate);
-        // Анимированные картинки
-        const animatedImagesWrapper = document.getElementById('animated-images-wrapper');
-        const images = document.querySelectorAll('.animated-image');
-        const prevBtn = document.getElementById('prev-btn');
-        const nextBtn = document.getElementById('next-btn');
-        const indicatorsContainer = document.getElementById('carousel-indicators');
-        let currentIndex = 0;
-        let isAnimating = false;
-        // Создаем индикаторы
-        images.forEach((_, index) => {
-            const indicator = document.createElement('div');
-            indicator.className = 'carousel-indicator';
-            if (index === 0) indicator.classList.add('active');
-            indicator.addEventListener('click', () => {
-                if (!isAnimating) {
-                    goToSlide(index);
-                }
-            });
-            indicatorsContainer.appendChild(indicator);
-        });
-        // Функция для переключения слайдов
-        function goToSlide(index) {
-            if (isAnimating) return;
-            isAnimating = true;
-            // Скрываем текущий слайд
-            images[currentIndex].classList.remove('active');
-            // Переключаемся на новый слайд
-            currentIndex = index;
-            // Обновляем индикаторы
-            document.querySelectorAll('.carousel-indicator').forEach((indicator, i) => {
-                if (i === currentIndex) {
-                    indicator.classList.add('active');
-                } else {
-                    indicator.classList.remove('active');
-                }
-            });
-            // Применяем трансформацию
-            const translateValue = -currentIndex * 100;
-            animatedImagesWrapper.style.transform = `translateX(${translateValue}%)`;
-            // Показываем новый слайд
-            setTimeout(() => {
-                images[currentIndex].classList.add('active');
-                isAnimating = false;
-            }, 500);
-        }
-        // Обработчики для стрелочек
-        prevBtn.addEventListener('click', () => {
-            if (!isAnimating) {
-                currentIndex = (currentIndex - 1 + images.length) % images.length;
-                goToSlide(currentIndex);
-            }
-        });
-        nextBtn.addEventListener('click', () => {
-            if (!isAnimating) {
-                currentIndex = (currentIndex + 1) % images.length;
-                goToSlide(currentIndex);
-            }
-        });
-        // Автоматическая смена слайдов каждые 5 секунд
-        setInterval(() => {
-            if (!isAnimating) {
-                currentIndex = (currentIndex + 1) % images.length;
-                goToSlide(currentIndex);
-            }
-        }, 5000);
-        // Показываем первый слайд при загрузке
-        images[0].classList.add('active');
-    </script>
-</body>
-</html>
